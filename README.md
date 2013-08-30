@@ -1,4 +1,5 @@
-ifl2014.github.io
+IFL 2014
 =================
 
-Web page
+Northeastern University
+Boston, MA
