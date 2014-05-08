@@ -115,7 +115,26 @@ process. The prize carries a cash award equivalent to 150 Euros.
 Programme committee
 -------------------
 
-To Be Announced
+Sam Tobin-Hochstadt, Indiana University (Chair)
+Rinus Plasmeijer, Radboud University Nijmegen (Co-Chair)
+Atze Dijkstra, Utrecht University
+Colin Runciman, University of York
+Graham Hutton, University of Nottingham
+Mary Sheeran, Chalmers University of Technology
+Patricia Johann, Appalachian State University
+Matthew Fluet, Rochester Institute of Technology
+Josef Svenningsson, Chalmers University of Technology
+Małgorzata Biernacka, University of Wroclaw
+Peter Achten, Radboud Univerity Nijmegen
+Laura Castro, University of A Coruña
+Hai Paul Liu, Intel Labs
+Kathryn Gray, Cambridge University
+Lars Bergstrom, Mozilla Research
+Lindsey Kuper, Indiana University
+Nicolas Wu, Oxford
+T. Stephen Strickland, University of Maryland
+Xavier Clerc, INRIA
+
 
 Venue
 -----
