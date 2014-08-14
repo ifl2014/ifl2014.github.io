@@ -67,6 +67,9 @@ pages. For the post-symposium proceedings the page limit of 12 pages
 is firm. A suitable document template for LaTeX can be found at:
 
     http://www.acm.org/sigs/sigplan/authorInformation.htm
+    
+Papers should be submitted online at https://easychair.org/conferences/?conf=ifl2014
+    
 
 Topics
 ------
