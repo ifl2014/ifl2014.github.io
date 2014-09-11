@@ -2,13 +2,13 @@
 
 IFL 2014 will be held October 1st through 3rd at [Northeastern University](http://www.northeastern.edu) in Boston, Massachusetts.
 
-_Submission is now closed.
+_Submission is now closed_.
 
 Follow [@IFL_2014](https://twitter.com/IFL_2014) on Twitter for the latest news on IFL.
 
 Registration is [now open](http://www.eventbrite.com/e/ifl-2014-tickets-12628406905). 
 
-The invited talk for IFL 2014 will be given by Niko Matsakis of Mozilla Research.
+The invited talk for IFL 2014 will be given by Niko Matsakis of [Mozilla Research](https://www.mozilla.org/en-US/research/)
 
 ***
 
