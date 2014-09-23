@@ -137,10 +137,9 @@ All dates are [Anywhere on Earth](http://en.wikipedia.org/wiki/Anywhere_on_Earth
 * 2:30     _Steven Keuchel and Tom Schrijvers_ Towards efficient implementations of effect handlers
 
 
-###### 2:30 Break
+###### 3:00 Break
 
-* 3:00   _Laszlo Domoszlai, Bas Lijnse and Rinus Plasmeijer_ Editlets: type based client side editors for iTasks
-* 3:30 _Olle Fredriksson, Dan Ghica and Bertram Wheen_ Towards a native higher-order RPC
+* 3:30   _Laszlo Domoszlai, Bas Lijnse and Rinus Plasmeijer_ Editlets: type based client side editors for iTasks
 * 4:00  _Peter Achten, Jurriën Stutterheim, Laszlo Domoszlai and Rinus Plasmeijer_ Task Oriented Programming with Purely Compositional Interactive Vector Graphics
 
 
@@ -148,27 +147,29 @@ All dates are [Anywhere on Earth](http://en.wikipedia.org/wiki/Anywhere_on_Earth
 
 ##### Friday, Oct 3
 
-* 9:00 
-* 9:30 
-* 10:00 
+* 9:00 _Jose Manuel Calderon Trilla and Colin Runciman_ An Iterative Compiler for Implicit Parallelism
+* 9:30 _Sven-Bodo Scholz_ Branch and Bound in a Data Parallel Setting
+* 10:00 _Markus Aronsson, Emil Axelsson and Mary Sheeran_ Stream Processing for Embedded Domain Specific Languages
 
 ###### 10:30 Break
 
-* 11:00
-* 11:30
-* 12:00
+* 11:00 _Gershom Bazerman_ Flipping Fold, Reformulating Reduction
+* 11:30 _Laszlo Domoszlai, Bas Lijnse and Rinus Plasmeijer_ Parametric lenses: change notification for bidirectional lenses
+* 12:00 _Neil Sculthorpe and Andrew Gill_ Making a Century in HERMIT
+
 
 ###### 12:30 Lunch
 
-* 1:30
-* 2:00
-* 2:30
+* 1:30 _Stuart Gordon and Sven-Bodo Scholz_ Dynamic resource adaptation for coordinating runtime systems
+* 2:00 _Edward Amsden, Ryan Newton and Jeremy Siek_ Editing Functional Programs Without Breaking Them
+* 2:30 _Olle Fredriksson, Dan Ghica and Bertram Wheen_ Towards a native higher-order RPC
 
-###### 2:30 Break
+###### 3:00 Break
 
-* 3:00
-* 3:30
-* 4:00
+* 3:30 _Thomas Schmorleiz and Ralf Lämmel_ Towards Tool Support for History Annotations in Similarity Management
+* 4:00 _Michael Arntzenius_ Moxy: a language with monoidally extensible syntax
+
+
 
 #### Call For Papers
 
