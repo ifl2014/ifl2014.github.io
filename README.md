@@ -92,6 +92,84 @@ All dates are [Anywhere on Earth](http://en.wikipedia.org/wiki/Anywhere_on_Earth
 
 * <div class="paper"><span class="authors"><span>Steven Keuchel and <a href="http://users.ugent.be/~tschrijv/">Tom Schrijvers</a></span>. </span><span class="title">Towards efficient implementations of effect handlers</span></div>
 
+#### Schedule
+
+##### Wednesday, Oct 1
+
+* 8:50 Welcome
+* 9:00 _Anton Tayanovskyy, Simon Fowler, Loic Denuziere and Adam Granicz_ Reactive Web Applications with Embedded Dynamic Dataflow in F#
+* 9:30 _Andrew Gill_ Blank Canvas and the remote-monad design pattern: A Foreign Function Interface to the JavaScript Canvas API
+* 10:00 _Mathieu Boespflug, Facundo Dominguez, Alexander Vershilov and Allen Brown_ Project H: Programming R in Haskell
+
+###### 10:30 Break
+
+* 11:00 _David Raymond Christiansen_ Type-Directed Elaboration of Quasiquotations: A High-Level Syntax for Low-Level Reflection
+* 11:30 _James Gil de Lamadrid_ FEDELE: A Mechanism for Exending the Syntax and Semantics for the Hybrid Functional-Object-Oriented Scripting Language FOBS
+* 12:00 _Tero Hasu and Matthew Flatt_ Source-to-Source Compilation in Racket: You Want it in Which Language?
+
+###### 12:30 Lunch
+
+* 1:30 _Niko Matsakis_, TBA
+
+###### 2:30 Break
+
+* 3:30 _Matthew Le and Matthew Fluet_ Combining Shared State with Speculative Parallelism in a Functional Language
+* 4:00 _Baltasar Trancón Y Widemann and Markus Lepper_ Towards Execution of the Synchronous Functional Data-Flow Language Sig
+* 4:30 _Philipp Schuster and Ralf Lämmel_ Declaration-level Change and Dependency Analysis of Hackage Packages
+
+##### Thursday, Oct 2
+
+* 9:00  _Connor Adsit and Matthew Fluet_ An Efficient Type- and Control-Flow Analysis for System F
+* 9:30     _Brad Torrence, Mike Stees and Andrew Gill_ Worker/wrapper for a Better Life
+* 10:00 _Clemens Grelck and Heinrich Wiesinger_ Selected Issues in Persistent Asynchronous Adaptive Specialization for Generic Array Programming
+
+###### 10:30 Break
+
+* 11:00 _Connor Smith_ Abstract machines for higher-order term sharing
+* 11:30 _Pieter Koopman, Rinus Plasmeijer and Jan Martin Jansen_ Church Encoding of Data Types Considered Harmful for Implementations
+* 12:00 _Peter Kourzanov_ Bidirectional parsing: a functional/logic perspective
+
+
+###### 12:30 Lunch
+
+* 1:30     _Alejandro Serrano, Patrick Bahr and Jurriaan Hage_ Type Families and Elaboration
+* 2:00 _Arthur Azevedo de Amorim, Marco Gaboardi, Emilio Jesús Gallego Arias and Justin Hsu_ Really Natural Linear Indexed Type Checking
+* 2:30     _Steven Keuchel and Tom Schrijvers_ Towards efficient implementations of effect handlers
+
+
+###### 2:30 Break
+
+* 3:00   _Laszlo Domoszlai, Bas Lijnse and Rinus Plasmeijer_ Editlets: type based client side editors for iTasks
+* 3:30 _Olle Fredriksson, Dan Ghica and Bertram Wheen_ Towards a native higher-order RPC
+* 4:00  _Peter Achten, Jurriën Stutterheim, Laszlo Domoszlai and Rinus Plasmeijer_ Task Oriented Programming with Purely Compositional Interactive Vector Graphics
+
+
+###### 4:30 Depart for excursion and banquet
+
+##### Friday, Oct 3
+
+* 9:00 
+* 9:30 
+* 10:00 
+
+###### 10:30 Break
+
+* 11:00
+* 11:30
+* 12:00
+
+###### 12:30 Lunch
+
+* 1:30
+* 2:00
+* 2:30
+
+###### 2:30 Break
+
+* 3:00
+* 3:30
+* 4:00
+
 #### Call For Papers
 
 Available in [Plain Text](http://ifl2014.github.io/CFP.txt) and in
