@@ -67,18 +67,13 @@ All dates are [Anywhere on Earth](http://en.wikipedia.org/wiki/Anywhere_on_Earth
 
 ###### 12:30 Lunch
 
-* 1:30     _Alejandro Serrano, Patrick Bahr and Jurriaan Hage_ Type Families and Elaboration
+* 1:30 _Alejandro Serrano, Patrick Bahr and Jurriaan Hage_ Type Families and Elaboration
 * 2:00 _Arthur Azevedo de Amorim, Marco Gaboardi, Emilio Jesús Gallego Arias and Justin Hsu_ Really Natural Linear Indexed Type Checking
-* 2:30     _Steven Keuchel and Tom Schrijvers_ Towards efficient implementations of effect handlers
+* 2:30   _Laszlo Domoszlai, Bas Lijnse and Rinus Plasmeijer_ Editlets: type based client side editors for iTasks
+* 3:00  _Peter Achten, Jurriën Stutterheim, Laszlo Domoszlai and Rinus Plasmeijer_ Task Oriented Programming with Purely Compositional Interactive Vector Graphics
 
 
-###### 3:00 Break
-
-* 3:30   _Laszlo Domoszlai, Bas Lijnse and Rinus Plasmeijer_ Editlets: type based client side editors for iTasks
-* 4:00  _Peter Achten, Jurriën Stutterheim, Laszlo Domoszlai and Rinus Plasmeijer_ Task Oriented Programming with Purely Compositional Interactive Vector Graphics
-
-
-###### 4:30 Depart for excursion and banquet
+###### 3:30 Depart for excursion and banquet
 
 ##### Friday, Oct 3
 
@@ -103,6 +98,7 @@ All dates are [Anywhere on Earth](http://en.wikipedia.org/wiki/Anywhere_on_Earth
 
 * 3:30 _Thomas Schmorleiz and Ralf Lämmel_ Towards Tool Support for History Annotations in Similarity Management
 * 4:00 _Michael Arntzenius_ Moxy: a language with monoidally extensible syntax
+* 4:30 _Steven Keuchel and Tom Schrijvers_ Towards efficient implementations of effect handlers
 
 
 
