@@ -32,34 +32,42 @@ All dates are [Anywhere on Earth](http://en.wikipedia.org/wiki/Anywhere_on_Earth
 ##### Wednesday, Oct 1
 
 * 8:50 Welcome
+
+###### Session: Interfacing. Chair: Peter Achten
+
 * 9:00 _Anton Tayanovskyy, Simon Fowler, Loic Denuziere and Adam Granicz_ Reactive Web Applications with Embedded Dynamic Dataflow in F#
 * 9:30 _Andrew Gill_ Blank Canvas and the remote-monad design pattern: A Foreign Function Interface to the JavaScript Canvas API
 * 10:00 _Mathieu Boespflug, Facundo Dominguez, Alexander Vershilov and Allen Brown_ Project H: Programming R in Haskell
 
 ###### 10:30 Break
 
+####### Session: Language Extension. Chair: Matthew Fluet
 * 11:00 _David Raymond Christiansen_ Type-Directed Elaboration of Quasiquotations: A High-Level Syntax for Low-Level Reflection
 * 11:30 _James Gil de Lamadrid_ FEDELE: A Mechanism for Exending the Syntax and Semantics for the Hybrid Functional-Object-Oriented Scripting Language FOBS
 * 12:00 _Tero Hasu and Matthew Flatt_ Source-to-Source Compilation in Racket: You Want it in Which Language?
 
 ###### 12:30 Lunch
 
+###### Session: Keynote. Chair: Sam Tobin-Hochstadt
 * 1:30 _Niko Matsakis_, TBA
 
 ###### 2:30 Break
 
+###### Session: Data Flow. Chair: Niko Matsakis
 * 3:30 _Matthew Le and Matthew Fluet_ Combining Shared State with Speculative Parallelism in a Functional Language
 * 4:00 _Baltasar Trancón Y Widemann and Markus Lepper_ Towards Execution of the Synchronous Functional Data-Flow Language Sig
 * 4:30 _Philipp Schuster and Ralf Lämmel_ Declaration-level Change and Dependency Analysis of Hackage Packages
 
 ##### Thursday, Oct 2
 
+###### Session: Analysis. Chair: Sven-Bodo Schulz
 * 9:00  _Connor Adsit and Matthew Fluet_ An Efficient Type- and Control-Flow Analysis for System F
 * 9:30     _Brad Torrence, Mike Stees and Andrew Gill_ Worker/wrapper for a Better Life
 * 10:00 _Clemens Grelck and Heinrich Wiesinger_ Selected Issues in Persistent Asynchronous Adaptive Specialization for Generic Array Programming
 
 ###### 10:30 Break
 
+###### Session: Encoding. Chair: Clemens Grelck
 * 11:00 _Connor Smith_ Abstract machines for higher-order term sharing
 * 11:30 _Pieter Koopman, Rinus Plasmeijer and Jan Martin Jansen_ Church Encoding of Data Types Considered Harmful for Implementations
 * 12:00 _Peter Kourzanov_ Bidirectional parsing: a functional/logic perspective
@@ -67,6 +75,7 @@ All dates are [Anywhere on Earth](http://en.wikipedia.org/wiki/Anywhere_on_Earth
 
 ###### 12:30 Lunch
 
+###### Session: Types. Chair: Andrew Gill
 * 1:30 _Alejandro Serrano, Patrick Bahr and Jurriaan Hage_ Type Families and Elaboration
 * 2:00 _Arthur Azevedo de Amorim, Marco Gaboardi, Emilio Jesús Gallego Arias and Justin Hsu_ Really Natural Linear Indexed Type Checking
 * 2:30   _Laszlo Domoszlai, Bas Lijnse and Rinus Plasmeijer_ Editlets: type based client side editors for iTasks
@@ -77,12 +86,14 @@ All dates are [Anywhere on Earth](http://en.wikipedia.org/wiki/Anywhere_on_Earth
 
 ##### Friday, Oct 3
 
+###### Session: Parallelism. Chair: Lars Bergstrom
 * 9:00 _Jose Manuel Calderon Trilla and Colin Runciman_ An Iterative Compiler for Implicit Parallelism
 * 9:30 _Sven-Bodo Scholz_ Branch and Bound in a Data Parallel Setting
 * 10:00 _Markus Aronsson, Emil Axelsson and Mary Sheeran_ Stream Processing for Embedded Domain Specific Languages
 
 ###### 10:30 Break
 
+###### Session: Transformation. Josef Svenningsson
 * 11:00 _Gershom Bazerman_ Flipping Fold, Reformulating Reduction
 * 11:30 _Laszlo Domoszlai, Bas Lijnse and Rinus Plasmeijer_ Parametric lenses: change notification for bidirectional lenses
 * 12:00 _Neil Sculthorpe and Andrew Gill_ Making a Century in HERMIT
@@ -90,12 +101,14 @@ All dates are [Anywhere on Earth](http://en.wikipedia.org/wiki/Anywhere_on_Earth
 
 ###### 12:30 Lunch
 
+###### Session: Coordination. Chair: Rinus Plasmeijer
 * 1:30 _Stuart Gordon and Sven-Bodo Scholz_ Dynamic resource adaptation for coordinating runtime systems
 * 2:00 _Edward Amsden, Ryan Newton and Jeremy Siek_ Editing Functional Programs Without Breaking Them
 * 2:30 _Olle Fredriksson, Dan Ghica and Bertram Wheen_ Towards a native higher-order RPC
 
 ###### 3:00 Break
 
+###### Session: Tools and Extensions. Chair: Sam Tobin-Hochstadt
 * 3:30 _Thomas Schmorleiz and Ralf Lämmel_ Towards Tool Support for History Annotations in Similarity Management
 * 4:00 _Michael Arntzenius_ Moxy: a language with monoidally extensible syntax
 * 4:30 _Steven Keuchel and Tom Schrijvers_ Towards efficient implementations of effect handlers
