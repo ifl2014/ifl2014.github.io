@@ -96,7 +96,7 @@ All dates are [Anywhere on Earth](http://en.wikipedia.org/wiki/Anywhere_on_Earth
 ###### Session: Transformation. Josef Svenningsson
 * 11:00 _Gershom Bazerman_ Flipping Fold, Reformulating Reduction
 * 11:30 _Laszlo Domoszlai, Bas Lijnse and Rinus Plasmeijer_ Parametric lenses: change notification for bidirectional lenses
-* 12:00 _Neil Sculthorpe and Andrew Gill_ Making a Century in HERMIT
+* 12:00 _Neil Sculthorpe, Andrew Farmer, and Andrew Gill_ Making a Century in HERMIT
 
 
 ###### 12:30 Lunch
