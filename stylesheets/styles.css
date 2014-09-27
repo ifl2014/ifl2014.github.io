@@ -59,32 +59,19 @@ h1,h2, h3 {
 }
 
 h1 {
-	font-size: 48px;
+	font-size: 30px;
 }
 
 h2 {
-	font-size: 40px;
-}
-
-h3 {
-	font-size: 36px;
-}
-
-h4 {
-	font-family: Arvo, Monaco, serif;
-	font-size: 30px;
-	font-weight: 700;
-}
-
- h5 {
-	font-family: Arvo, Monaco, serif;
-	font-weight: 700;
 	font-size: 24px;
 }
 
- h6 {
+h3 {
+	font-size: 18px;
+}
+
+h4, h5, h6 {
 	font-family: Arvo, Monaco, serif;
-	font-size: 20px;
 	font-weight: 700;
 }
 
